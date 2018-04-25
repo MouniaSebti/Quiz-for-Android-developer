@@ -20,7 +20,7 @@ Quiz for Android Developer is now available in on Play Store, you can get it [he
 
 ## Screenshots
 
-![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/1.png)
+![](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/1.png)
 ![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/2.png)
 ![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/3.png)
 ![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/4.png)
@@ -31,6 +31,3 @@ Quiz for Android Developer is now available in on Play Store, you can get it [he
 
 * **Mounia Sebti** - *Initial work* - [Mounia](https://github.com/MouniaSebti)
 
-## License
-
-This project is licensed under the MIT License
