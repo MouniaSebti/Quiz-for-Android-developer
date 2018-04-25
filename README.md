@@ -1,5 +1,7 @@
 # Android Quiz
 
+![](AndroidQuizLogo.png)
+
 Android Quiz is a multiple choice questions application that challenges your knowledge about developing an app for Android. No matter you are looking to hire some qualified developers, or you just want to learn about your knowledge, this free quiz app has got you covered.
 The multiple choice questions have been professionally designed to make sure the results are valid and reliable. 
 
