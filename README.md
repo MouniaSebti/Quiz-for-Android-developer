@@ -19,7 +19,7 @@ https://play.google.com/store/apps/details?id=ma.mounia.inpt.androidQuiz
 
 ## Screenshots
 
-![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/1.png)
+![alt tag](https://play.google.com/store/apps/details?id=ma.mounia.inpt.androidQuiz)
 
 ## Authors
 
