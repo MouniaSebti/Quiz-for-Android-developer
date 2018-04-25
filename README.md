@@ -14,12 +14,16 @@ Android Quiz Main Features at a Glance:
 •	showcase your knowledge of Android ecosystem
 •	Free with no in-app purchase items
 
-
-https://play.google.com/store/apps/details?id=ma.mounia.inpt.androidQuiz
+TQuiz for Android Developer is now available in on Play Store, you can get it [here](https://play.google.com/store/apps/details?id=ma.mounia.inpt.androidQuiz)!
 
 ## Screenshots
 
-![alt tag](https://play.google.com/store/apps/details?id=ma.mounia.inpt.androidQuiz)
+![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/1.png)
+![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/2.png)
+![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/3.png)
+![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/4.png)
+![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/5.png)
+![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/6.png)
 
 ## Authors
 
