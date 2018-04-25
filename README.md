@@ -19,7 +19,7 @@ https://play.google.com/store/apps/details?id=ma.mounia.inpt.androidQuiz
 
 ## Screenshots
 
-
+![alt text](Screenshots/Screenshot_20180112-230630.png)
 
 ## Authors
 
