@@ -20,7 +20,7 @@ Quiz for Android Developer is now available in on Play Store, you can get it [he
 
 ## Screenshots
 
-![alt tag](1.png)
+![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/1.png)
 ![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/2.png)
 ![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/3.png)
 ![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/4.png)
