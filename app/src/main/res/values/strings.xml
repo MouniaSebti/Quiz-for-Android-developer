@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Android Quiz</string>
+
+    <string name="banner_ad_unit_id1">ca-app-pub-7314105676320068/8606468832</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-7314105676320068/1083202037</string>
+    <string name="banner_ad_unit_id3">ca-app-pub-7314105676320068/6586228920</string>
+    <string name="banner_ad_unit_id4">ca-app-pub-7314105676320068/8751505064</string>
+
+    <string name="test_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <string name="initialscore">0</string>
+    <string name="initialtimer">10"</string>
+
+    <string name="Version">Version 4.0</string>
+    <string name="android_quiz">Android Quiz</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="play">Play</string>
+    <string name="timeup">TIME UP !</string>
+    <string name="correct">Correct</string>
+    <string name="wrong">Wrong</string>
+    <string name="next">Next</string>
+    <string name="quit">QUIT</string>
+    <string name="result_score">Your Score</string>
+    <string name="start">START</string>
+    <string name="try_again">TRY AGAIN</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/lightGreen"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:id="@+id/AppName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_weight="0.6"
+        android:weightSum="1">
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.58"
+            android:gravity="center"
+            android:src="@drawable/logo" />
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/StartQuiz"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="0.4"
+            android:gravity="center"
+            android:weightSum="1">
+
+        <info.hoang8f.widget.FButton
+            android:id="@+id/playGame"
+            fbutton:buttonColor="@color/white"
+            android:layout_width="0dp"
+            android:gravity="center"
+            android:text="@string/start"
+            android:textStyle="bold"
+            android:textSize="23sp"
+            android:textColor="@color/lightGreen"
+            android:layout_weight="0.65"
+            android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/lightgrey"
+    tools:context="com.example.hp.androidQuiz.ResultActivity"
+    android:weightSum="1">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:background="@color/greyerColor"
+        android:minHeight="?actionBarSize"
+        android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:paddingRight="13dp">
+        <ImageView
+            android:id="@+id/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:src="@drawable/appname" />
+    </LinearLayout>
+    </android.support.v7.widget.Toolbar>
+    <LinearLayout
+        android:id="@+id/Result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.7"
+        android:gravity="center"
+        android:padding="15dp"
+        android:paddingRight="5dp"
+        android:paddingLeft="5dp"
+        android:weightSum="1.5"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.6"
+            android:gravity="center"
+            android:padding="3dp"
+            android:background="@drawable/shape2"
+            android:weightSum="1.5"
+            android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/yourscore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:textColor="@color/white"
+            android:gravity="center|bottom"
+            android:text="@string/result_score"
+            android:fontFamily="monospace"
+            android:textSize="28sp" />
+
+        <TextView
+            android:id="@+id/textResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:text="10"
+            android:fontFamily="monospace"
+            android:textSize="110sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/PlayAgain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.2"
+        android:gravity="center"
+        android:padding="2dp"
+        android:weightSum="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:padding="1dp"
+            android:weightSum="1"
+            android:orientation="horizontal">
+        <info.hoang8f.widget.FButton
+            android:id="@+id/playBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.6"
+            android:text="@string/play_again"
+            android:textSize="17sp"
+            fbutton:buttonColor="@color/blue" />
+        </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:gravity="center|top"
+                android:padding="1dp"
+                android:weightSum="1"
+                android:orientation="horizontal">
+        <info.hoang8f.widget.FButton
+            android:id="@+id/quitBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.6"
+            android:text="@string/quit"
+            android:textSize="17sp"
+            fbutton:buttonColor="@color/blue" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/Ad3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.1"
+        android:orientation="horizontal">
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ads:adSize="BANNER"
+            android:layout_gravity="bottom"
+            ads:adUnitId="@string/banner_ad_unit_id3">
+        </com.google.android.gms.ads.AdView>
+
+    </LinearLayout>
+</LinearLayout>
