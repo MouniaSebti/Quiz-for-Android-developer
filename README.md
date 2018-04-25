@@ -1,6 +1,6 @@
 # Android Quiz
 
-![](AndroidQuizLogo.png)
+![](Logo.png)
 
 Android Quiz is a multiple choice questions application that challenges your knowledge about developing an app for Android. No matter you are looking to hire some qualified developers, or you just want to learn about your knowledge, this free quiz app has got you covered.
 The multiple choice questions have been professionally designed to make sure the results are valid and reliable. 
@@ -20,8 +20,8 @@ Quiz for Android Developer is now available in on Play Store, you can get it [he
 
 ## Screenshots
 
-![](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/1.png)
-![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/2.png)
+![](1.png)
+![](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/2.png)
 ![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/3.png)
 ![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/4.png)
 ![alt tag](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/Screenshots/5.png)
