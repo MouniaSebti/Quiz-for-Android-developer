@@ -19,8 +19,8 @@ https://play.google.com/store/apps/details?id=ma.mounia.inpt.androidQuiz
 
 ## Screenshots
 
-![alt text](![alt text](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/path/to/Screenshot_20180112-230630.png)
-![alt text](screenshots/Screenshot_20180112-230630.png "Description goes here")
+![alt text](https://github.com/MouniaSebti/Quiz-for-Android-developer/tree/master/path/to/Screenshot_20180112-230630.png)
+![alt text](screenshots/Screenshot_20180112-230647.png "Description goes here")
 
 ## Authors
 
